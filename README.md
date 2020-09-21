@@ -24,3 +24,19 @@ I develop this app using firebase :fire: for the back-end and for thr front-end 
 ### API :movie_camera:
 
 I use the movie data base api to bring the movie data to my app
+
+---
+
+### directories structure
+
+- public
+- src
+  - components
+  - utils
+
+---
+
+| Components            |
+| --------------------- |
+| App :apple:           |
+| Header :hear_no_evil: |
