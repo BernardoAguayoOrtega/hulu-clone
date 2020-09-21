@@ -13,13 +13,12 @@ I develop this app using firebase :fire: for the back-end and for thr front-end 
 
 ---
 
-| Dependencies :bust_in_silhouette: |
-| :-------------------------------: |
-|               React               |
-|             Firebase              |
-|             React Dom             |
-|           react scripts           |
-|         styled components         |
+| Main Dependencies :bust_in_silhouette: |
+| :------------------------------------: |
+|                 React                  |
+|               React Dom                |
+|             react scripts              |
+|           styled components            |
 
 ### API :movie_camera:
 
