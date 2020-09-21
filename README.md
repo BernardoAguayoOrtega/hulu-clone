@@ -20,3 +20,7 @@ I develop this app using firebase :fire: for the back-end and for thr front-end 
 |             React Dom             |
 |           react scripts           |
 |         styled components         |
+
+### API :movie_camera:
+
+I use the movie data base api to bring the movie data to my app
